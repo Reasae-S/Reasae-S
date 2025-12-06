@@ -9,7 +9,7 @@ This repository is meant to keep track of my person through time.
 - Favourite song: **MIRROR**
 
 ## Programming
-- Favourite language: **JavaScript 1.0**
+- Favourite language: **JavaScript 1.1**
 
 ## Games
 - Favourite game: **Dispatch**
